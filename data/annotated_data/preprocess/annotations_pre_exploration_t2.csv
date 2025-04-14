@@ -1,0 +1,131 @@
+name,user_id,round_id,example_id,question_0_This post is:,question_1_Total relationship duration,question_2_Current relationship status,question_3_How would you rate the risk level of the woman's relationship based on the information provided in the post?,question_4_Does she mention avoiding social events or outings with friends or family because of him or maybe making excuses for not going out?,"question_5_Does she frequently feel anxious in her interactions with him, as if she needs to be careful with her words and actions?",question_6_Does he frequently make her feel guilty?,question_7_Does he frequently express dissatisfaction with her?,question_8_Does he try to manipulate her?,question_9_Does she feel she doesn't have option to leave him?,"question_10_Has she mentioned feeling like she has to dress, appear or act a certain way to please him?",question_11_Does he exhibit a tendency for angry outbursts?,question_12_Does she ever feel unsafe or threatened by him? Or does it seem evident from the post that he threatened/stalked/harassed her?,question_13_Does she mention that he was physically violent to her?,question_14_Does she mention that he was physically violent towards objects/animals related to her?,question_15_Does she describe verbal violence from her partner? (e.g. name calling/humilation),question_16_Age of female,question_17_Age of male
+Adi,1,-1,,,,,,,,,,,,,,,,,,,
+Adi,1,0,0,relevant,1-3 years,boyfriend/girlfriend (dating),high,no,yes,yes,yes,yes,no,no,yes,no,no,no,yes,22,22
+Adi,1,1,1,relevant,1-3 years,seprerated/divorced,high,no,no,yes,yes,yes,no,yes,yes,no,no,no,yes,29,34
+Adi,1,2,2,irrelevant,0-1 year,seprerated/divorced,low,no,no,no,no,no,no,no,no,no,no,no,no,,
+Adi,1,3,3,relevant,0-1 year,seprerated/divorced,low,no,no,no,no,no,no,no,no,no,no,no,no,28,30
+Adi,1,4,4,relevant,unclear from the post,boyfriend/girlfriend (dating),medium,no,yes,yes,yes,no,no,no,no,no,no,no,no,22,26
+Adi,1,5,5,relevant,unclear from the post,seprerated/divorced,low,no,no,no,no,no,no,no,no,no,no,no,no,23,24
+Adi,1,6,6,relevant,0-1 year,boyfriend/girlfriend (dating),low,no,no,no,no,yes,no,no,no,no,no,no,no,25,25
+Adi,1,7,7,relevant,0-1 year,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,27,32
+Adi,1,8,8,relevant,0-1 year,non commited relationship,low,no,no,no,no,no,no,no,no,no,no,no,no,22,22
+Adi,1,9,9,relevant,1-3 years,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,20,20
+Adi,1,10,10,relevant,0-1 year,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,26,26
+Adi,1,11,11,relevant,unclear from the post,boyfriend/girlfriend (dating),high,no,no,yes,yes,no,no,yes,no,no,no,no,yes,19,19
+Adi,1,12,12,relevant,1-3 years,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,21,21
+Adi,1,13,13,relevant,1-3 years,boyfriend/girlfriend (dating),high,yes,yes,yes,yes,no,no,yes,yes,yes,no,no,yes,22,27
+Adi,1,14,14,relevant,0-1 year,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,18,25
+Adi,1,15,15,relevant,1-3 years,partners/married,low,no,no,no,no,no,no,no,no,no,no,no,no,28,30
+Adi,1,17,17,relevant,0-1 year,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,yes,no,no,no,no,no,29,34
+Adi,1,18,18,relevant,1-3 years,seprerated/divorced,low,no,no,no,no,no,no,no,no,no,no,no,no,21,22
+Adi,1,19,19,relevant,unclear from the post,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,22,24
+Adi,1,20,20,relevant,3+ years (long),partners/married,low,no,no,no,no,no,no,no,no,no,no,no,no,25,26
+Adi,1,21,21,relevant,3+ years (long),partners/married,high,no,yes,no,yes,yes,yes,no,yes,yes,no,no,yes,24,25
+Adi,1,22,22,irrelevant,0-1 year,seprerated/divorced,low,no,no,no,no,no,no,no,no,no,no,no,no,0,0
+Adi,1,23,23,relevant,1-3 years,boyfriend/girlfriend (dating),medium,no,no,no,yes,no,no,no,no,no,no,no,no,19,22
+ilanit,3,-1,,,,,,,,,,,,,,,,,,,
+ilanit,3,0,0,relevant,1-3 years,boyfriend/girlfriend (dating),medium,no,yes,yes,yes,no,no,no,yes,no,no,no,yes,0,0
+ilanit,3,1,1,relevant,1-3 years,partners/married,medium,yes,no,yes,yes,no,yes,yes,yes,yes,no,no,yes,29,33
+ilanit,3,2,2,irrelevant,0-1 year,seprerated/divorced,low,no,no,no,no,no,no,no,no,no,no,no,no,0,0
+ilanit,3,3,3,relevant,0-1 year,non commited relationship,low,no,no,no,no,no,no,no,no,no,no,no,no,28,30
+ilanit,3,4,4,relevant,unclear from the post,boyfriend/girlfriend (dating),low,no,no,yes,no,no,no,no,no,no,no,no,no,23,26
+ilanit,3,5,5,relevant,unclear from the post,seprerated/divorced,low,no,no,no,no,no,no,no,no,no,no,no,no,23,24
+ilanit,3,6,6,relevant,0-1 year,seprerated/divorced,low,no,no,no,no,no,no,no,no,no,no,no,no,25,25
+ilanit,3,7,7,relevant,0-1 year,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,27,32
+ilanit,3,8,8,relevant,0-1 year,non commited relationship,low,no,no,yes,no,no,no,no,no,no,no,no,no,22,22
+ilanit,3,9,9,relevant,1-3 years,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,20,21
+ilanit,3,10,10,relevant,0-1 year,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,26,27
+ilanit,3,11,11,relevant,3+ years (long),boyfriend/girlfriend (dating),low,no,no,yes,yes,yes,no,yes,no,no,no,no,yes,19,19
+ilanit,3,12,12,relevant,1-3 years,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,21,21
+ilanit,3,13,13,relevant,1-3 years,boyfriend/girlfriend (dating),medium,no,no,yes,no,yes,no,yes,yes,no,no,no,no,22,27
+ilanit,3,14,14,relevant,0-1 year,boyfriend/girlfriend (dating),low,no,no,yes,yes,no,yes,yes,no,no,no,no,no,18,25
+ilanit,3,15,15,relevant,1-3 years,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,28,30
+ilanit,3,16,16,irrelevant,0-1 year,seprerated/divorced,low,no,no,no,no,no,no,no,no,no,no,no,no,0,0
+ilanit,3,17,17,relevant,0-1 year,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,yes,no,no,no,no,no,30,34
+ilanit,3,18,18,relevant,1-3 years,seprerated/divorced,low,no,no,no,no,no,no,no,no,no,no,no,no,21,22
+ilanit,3,19,19,relevant,0-1 year,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,22,24
+ilanit,3,20,20,relevant,3+ years (long),partners/married,low,yes,no,no,no,no,no,no,no,no,no,no,no,26,26
+ilanit,3,21,21,relevant,3+ years (long),seprerated/divorced,high,no,yes,yes,yes,yes,yes,no,yes,yes,no,no,no,24,25
+ilanit,3,22,22,irrelevant,0-1 year,seprerated/divorced,low,no,no,no,no,no,no,no,no,no,no,no,no,0,0
+ilanit,3,23,23,relevant,1-3 years,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,19,23
+ilanit,3,24,24,relevant,3+ years (long),seprerated/divorced,low,no,no,yes,no,yes,no,no,no,no,no,no,no,28,30
+Emmy,4,-1,,,,,,,,,,,,,,,,,,,
+Emmy,4,0,0,relevant,1-3 years,boyfriend/girlfriend (dating),low,no,no,yes,yes,no,no,no,no,no,no,no,no,22,22
+Emmy,4,1,1,relevant,1-3 years,seprerated/divorced,medium,no,no,no,no,no,no,no,yes,no,no,no,yes,29,34
+Emmy,4,2,2,irrelevant,0-1 year,seprerated/divorced,low,no,no,no,no,no,no,no,no,no,no,no,no,0,0
+Emmy,4,3,3,relevant,0-1 year,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,28,30
+Emmy,4,4,4,relevant,unclear from the post,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,23,26
+Emmy,4,5,5,relevant,0-1 year,seprerated/divorced,low,no,no,no,no,no,no,no,no,no,no,no,no,23,24
+Emmy,4,6,6,relevant,0-1 year,seprerated/divorced,low,no,no,no,no,no,no,no,no,no,no,no,no,25,25
+Emmy,4,7,7,relevant,0-1 year,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,27,32
+Emmy,4,8,8,relevant,0-1 year,non commited relationship,low,no,no,no,no,no,no,no,no,no,no,no,no,22,22
+Emmy,4,9,9,relevant,1-3 years,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,20,21
+Emmy,4,10,10,relevant,0-1 year,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,26,27
+Emmy,4,11,11,relevant,1-3 years,boyfriend/girlfriend (dating),medium,no,no,no,yes,no,no,yes,no,no,no,no,yes,19,19
+Emmy,4,12,12,relevant,1-3 years,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,21,21
+Emmy,4,13,13,relevant,1-3 years,seprerated/divorced,medium,no,yes,yes,yes,no,no,no,no,no,no,no,no,22,27
+Emmy,4,14,14,relevant,unclear from the post,boyfriend/girlfriend (dating),medium,no,no,yes,yes,no,no,no,no,no,no,no,no,18,25
+Emmy,4,15,15,relevant,0-1 year,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,28,30
+Emmy,4,16,16,irrelevant,0-1 year,seprerated/divorced,low,no,no,no,no,no,no,no,no,no,no,no,no,0,0
+Emmy,4,17,17,relevant,0-1 year,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,yes,no,no,no,no,no,30,34
+Emmy,4,18,18,relevant,0-1 year,seprerated/divorced,low,no,no,no,no,no,no,no,no,no,no,no,no,21,22
+Emmy,4,19,19,relevant,0-1 year,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,22,24
+Emmy,4,20,20,relevant,3+ years (long),partners/married,low,no,no,no,no,no,no,no,no,no,no,no,no,26,26
+Emmy,4,21,21,relevant,3+ years (long),partners/married,medium,no,no,no,yes,yes,yes,no,no,no,no,no,yes,24,25
+Emmy,4,22,22,relevant,unclear from the post,partners/married,low,no,no,no,no,yes,no,no,no,no,no,no,no,22,50
+Emmy,4,23,23,relevant,unclear from the post,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,19,23
+Emmy,4,24,24,relevant,3+ years (long),seprerated/divorced,medium,no,no,yes,yes,yes,no,no,no,no,no,no,no,28,30
+Roni,5,-1,,,,,,,,,,,,,,,,,,,
+Roni,5,0,0,relevant,3+ years (long),boyfriend/girlfriend (dating),medium,no,yes,yes,yes,yes,yes,no,yes,no,no,no,yes,22,22
+Roni,5,1,1,relevant,1-3 years,partners/married,high,no,no,yes,yes,yes,no,no,yes,no,no,no,yes,29,33
+Roni,5,2,2,irrelevant,0-1 year,seprerated/divorced,low,no,no,no,no,no,no,no,no,no,no,no,no,0,0
+Roni,5,3,3,relevant,0-1 year,seprerated/divorced,low,no,no,no,no,no,no,no,no,no,no,no,no,28,30
+Roni,5,4,4,relevant,unclear from the post,boyfriend/girlfriend (dating),low,no,no,no,yes,no,no,no,no,no,no,no,no,23,26
+Roni,5,5,5,relevant,unclear from the post,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,23,24
+Roni,5,6,6,relevant,0-1 year,seprerated/divorced,low,no,no,no,no,yes,no,no,no,no,no,no,no,25,25
+Roni,5,7,7,relevant,1-3 years,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,27,32
+Roni,5,8,8,relevant,0-1 year,non commited relationship,low,no,no,no,no,no,no,no,no,no,no,no,no,22,22
+roni,6,-1,,,,,,,,,,,,,,,,,,,
+ido,7,-1,,,,,,,,,,,,,,,,,,,
+ido,7,0,0,relevant,1-3 years,unclear from the post,medium,no,yes,yes,yes,yes,yes,no,yes,no,no,no,yes,22,22
+ido,7,1,1,relevant,unclear from the post,seprerated/divorced,medium,no,no,no,no,no,no,no,yes,no,no,no,yes,29,34
+ido,7,2,2,relevant,unclear from the post,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,20,21
+ido,7,3,3,relevant,unclear from the post,non commited relationship,low,no,no,no,no,no,no,no,no,no,no,no,no,28,30
+ido,7,4,4,relevant,unclear from the post,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,23,26
+ido,7,5,5,relevant,unclear from the post,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,23,24
+ido,7,6,6,relevant,0-1 year,seprerated/divorced,low,no,no,no,no,no,no,no,no,no,no,no,no,25,25
+ido,7,7,7,relevant,0-1 year,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,27,32
+ido,7,8,8,relevant,unclear from the post,non commited relationship,low,no,no,no,no,no,no,no,no,no,no,no,no,22,22
+ido,7,9,9,relevant,1-3 years,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,20,21
+ido,7,10,10,relevant,0-1 year,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,26,27
+ido,7,11,11,relevant,unclear from the post,unclear from the post,high,no,no,yes,yes,yes,no,no,no,no,no,no,yes,19,19
+ido,7,12,12,relevant,unclear from the post,unclear from the post,low,no,no,no,no,no,no,no,no,no,no,no,no,21,21
+ido,7,13,13,relevant,unclear from the post,unclear from the post,medium,no,no,no,no,yes,no,no,yes,no,no,no,no,22,27
+ido,7,14,14,relevant,unclear from the post,unclear from the post,low,no,no,no,no,no,no,no,no,no,no,no,no,18,25
+ido,7,15,15,relevant,unclear from the post,unclear from the post,low,no,no,no,no,no,no,no,no,no,no,no,no,28,30
+ido,7,16,16,relevant,unclear from the post,friends,low,no,no,no,no,no,no,no,no,no,no,no,no,23,0
+ido,7,17,17,relevant,0-1 year,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,30,34
+ido,7,18,18,relevant,0-1 year,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,21,22
+ido,7,19,19,relevant,0-1 year,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,22,24
+ido,7,20,20,relevant,1-3 years,partners/married,low,no,no,no,no,no,no,no,no,no,no,no,no,26,26
+ido,7,21,21,relevant,3+ years (long),partners/married,high,no,no,yes,yes,yes,yes,no,yes,yes,no,no,yes,24,25
+ido,7,22,22,irrelevant,0-1 year,partners/married,low,no,no,no,no,no,no,no,no,no,no,no,no,0,22
+ido,7,23,23,relevant,0-1 year,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,19,23
+ido,7,24,24,relevant,3+ years (long),seprerated/divorced,low,no,no,no,no,no,no,no,no,no,no,no,no,28,30
+Adi,8,24,24,relevant,3+ years (long),seprerated/divorced,medium,no,no,yes,no,no,no,no,no,no,no,no,no,28,30
+Roni,5,9,9,relevant,1-3 years,seprerated/divorced,low,no,no,no,no,no,no,no,no,no,no,no,no,20,21
+Roni,5,10,10,relevant,0-1 year,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,26,27
+Roni,5,11,11,relevant,1-3 years,seprerated/divorced,medium,no,no,yes,yes,yes,no,yes,no,no,no,no,yes,19,19
+Roni,5,12,12,relevant,1-3 years,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,21,21
+Roni,5,13,13,relevant,1-3 years,boyfriend/girlfriend (dating),high,no,no,yes,no,yes,no,no,no,yes,no,no,no,22,27
+Roni,5,14,14,relevant,unclear from the post,boyfriend/girlfriend (dating),low,no,yes,yes,yes,no,no,no,no,no,no,no,no,18,25
+Roni,5,15,15,relevant,1-3 years,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,28,30
+Roni,5,16,16,irrelevant,0-1 year,seprerated/divorced,low,no,no,no,no,no,no,no,no,no,no,no,no,0,0
+Roni,5,17,17,relevant,0-1 year,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,30,34
+Roni,5,18,18,relevant,1-3 years,seprerated/divorced,low,no,no,no,no,no,no,no,no,no,no,no,no,21,22
+Roni,5,19,19,relevant,0-1 year,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,22,24
+Roni,5,20,20,relevant,3+ years (long),partners/married,low,no,no,no,no,no,no,no,no,no,no,no,no,26,26
+Roni,5,21,21,relevant,3+ years (long),partners/married,high,no,no,yes,no,yes,yes,no,yes,yes,no,no,yes,24,25
+Roni,5,22,22,irrelevant,0-1 year,seprerated/divorced,low,no,no,no,no,no,no,no,no,no,no,no,no,0,0
+Roni,5,23,23,relevant,1-3 years,boyfriend/girlfriend (dating),low,no,no,no,yes,no,no,no,no,no,no,no,no,19,23
+Roni,5,24,24,relevant,3+ years (long),non commited relationship,low,no,no,no,no,yes,no,no,no,no,no,no,no,28,30

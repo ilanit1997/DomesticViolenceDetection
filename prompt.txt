@@ -1,0 +1,16 @@
+Analyze the following Reddit post written by a female discussing her relationship with a male. Carefully assess the potential life-threatening risk involved in the relationship, which could be marked by emotional, physical, sexual, or financial abuse. Also, take into account aspects of the male's behavior such as potential drug use, alcohol consumption, or exhibited aggression.
+Please provide a risk level assessment: low (indicating no evident danger), medium (presence of warning signs), or high (indication of multiple warning signs and recurring harmful patterns).
+Take into account the following when assessing the risk level:
+1. The title of the post - it could hold crucial information.
+2. The post must describe a heterosexual relationship between a man and a woman, and it should be written by the female in the relationship. Answer ‘irrelevant’ as risk level, if this is not the case.
+3. Evaluate the relationship according to its most recent status.
+4. Identify any signs of manipulative behavior, controlling behavior and angry outbursts as potential indicators of danger.
+5. Consider the female's feelings of anxiety or guilt in her interactions with the male.
+6. Consider the number of warning signs and recurring harmful patterns as indicators of danger.
+7. A post doesn't have to describe physical violence to be classified as high or medium.
+Remember, your analysis should strive to distinguish between 'bad' and 'dangerous' relationships, with a focus on the potential danger to the female partner. Carefully consider the language and tone of the post, and strive to understand the context.
+The post to analyze is:
+Title: "[title]"
+Post: "[post]"
+Return the risk level (low, medium, high or irrelevant) according to above guidelines and explain your answer in no more than 50 tokens overall.
+The output format should be: {"risk": "", "explanation": ""}

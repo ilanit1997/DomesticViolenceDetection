@@ -1,0 +1,101 @@
+﻿name,user_id,round_id,example_id,question_0_This post is:,question_1_Total relationship duration,question_2_Current relationship status,question_3_How would you rate the risk level of the woman's relationship based on the information provided in the post?,question_4_Does she mention avoiding social events or outings with friends or family because of him or maybe making excuses for not going out?,"question_5_Does she frequently feel anxious in her interactions with him, as if she needs to be careful with her words and actions?",question_6_Does he frequently make her feel guilty?,question_7_Does he frequently express dissatisfaction with her?,question_8_Does he try to manipulate her?,question_9_Does she feel she doesn't have option to leave him?,"question_10_Has she mentioned feeling like she has to dress, appear or act a certain way to please him?",question_11_Does he exhibit a tendency for angry outbursts?,question_12_Does she ever feel unsafe or threatened by him? Or does it seem evident from the post that he threatened/stalked/harassed her?,question_13_Does she mention that he was physically violent to her?,question_14_Does she mention that he was physically violent towards objects/animals related to her?,question_15_Does she describe verbal violence from her partner? (e.g. name calling/humilation),question_16_Age of female,question_17_Age of male,index_post,originalIndex,part
+ilanit,1,0,0,relevant,3+ years (long),boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,27,33,50,241,exploration
+ido,2,0,0,relevant,3+ years (long),boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,27,33,50,241,exploration
+ilanit,1,1,1,relevant,3+ years (long),boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,23,23,51,128,exploration
+ido,2,1,1,relevant,3+ years (long),boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,23,23,51,128,exploration
+ilanit,1,2,2,relevant,0-1 year,non committed relationship,low,no,no,yes,yes,yes,no,no,no,no,no,no,no,21,24,52,156,exploration
+ido,2,2,2,relevant,0-1 year,non committed relationship,low,no,no,yes,yes,yes,no,no,no,no,no,no,no,21,24,52,156,exploration
+ilanit,3,3,3,relevant,3+ years (long),boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,25,27,53,208,exploration
+ido,2,3,3,relevant,3+ years (long),boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,25,27,53,208,exploration
+ilanit,1,4,4,relevant,0-1 year,non committed relationship,low,no,no,no,no,no,no,no,no,no,no,no,no,22,39,54,13,exploration
+ido,2,4,4,relevant,0-1 year,non committed relationship,low,no,no,no,no,no,no,no,no,no,no,no,no,22,39,54,13,exploration
+ilanit,1,5,5,relevant,0-1 year,affair,low,no,no,no,no,no,no,no,no,no,no,no,no,22,22,55,298,exploration
+ido,2,5,5,relevant,0-1 year,affair,low,no,no,no,no,no,no,no,no,no,no,no,no,22,22,55,298,exploration
+ilanit,1,6,6,relevant,0-1 year,boyfriend/girlfriend (dating),low,no,no,yes,no,no,no,no,no,no,no,no,no,20,19,56,184,exploration
+ido,2,6,6,relevant,0-1 year,boyfriend/girlfriend (dating),low,no,no,yes,no,no,no,no,no,no,no,no,no,20,19,56,184,exploration
+ilanit,1,7,7,relevant,3+ years (long),boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,22,24,57,36,exploration
+ido,2,7,7,relevant,3+ years (long),boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,22,24,57,36,exploration
+ilanit,1,8,8,relevant,3+ years (long),partners/married,low,no,no,no,no,no,no,no,no,no,no,no,no,29,29,58,258,exploration
+ido,2,8,8,relevant,3+ years (long),boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,29,29,58,258,exploration
+ilanit,1,9,9,relevant,3+ years (long),partners/married,low,no,no,no,no,no,no,no,no,no,no,no,no,24,25,59,286,exploration
+ido,2,9,9,relevant,3+ years (long),partners/married,low,no,no,no,no,no,no,no,no,no,no,no,no,24,25,59,286,exploration
+ilanit,1,10,10,relevant,unclear from the post,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,26,34,60,218,exploration
+ido,2,10,10,relevant,unclear from the post,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,26,34,60,218,exploration
+ilanit,1,11,11,relevant,0-1 year,boyfriend/girlfriend (dating),low,no,no,no,no,yes,no,no,no,no,no,no,no,31,32,61,172,exploration
+ido,2,11,11,relevant,0-1 year,boyfriend/girlfriend (dating),low,no,no,no,no,yes,no,no,no,no,no,no,no,31,33,61,172,exploration
+ilanit,1,12,12,relevant,unclear from the post,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,22,22,62,124,exploration
+ido,2,12,12,relevant,unclear from the post,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,22,22,62,124,exploration
+ilanit,1,13,13,relevant,3+ years (long),boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,26,24,63,255,exploration
+ido,2,13,13,relevant,0-1 year,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,27,25,63,255,exploration
+ilanit,1,14,14,relevant,0-1 year,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,33,33,64,135,exploration
+ido,2,14,14,relevant,0-1 year,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,33,33,64,135,exploration
+ilanit,1,15,15,relevant,0-1 year,non committed relationship,low,no,no,no,no,no,no,no,no,no,no,no,no,30,35,65,72,exploration
+ido,2,15,15,relevant,0-1 year,non committed relationship,low,no,no,no,no,no,no,no,no,no,no,no,no,30,35,65,72,exploration
+ilanit,1,16,16,relevant,1-3 years,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,23,24,66,87,exploration
+ido,2,16,16,relevant,1-3 years,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,23,24,66,87,exploration
+ilanit,1,17,17,relevant,3+ years (long),partners/married,high,no,no,no,no,no,yes,no,no,yes,no,no,no,31,33,67,238,exploration
+ido,2,17,17,relevant,3+ years (long),partners/married,high,no,no,no,no,no,yes,no,no,yes,no,no,no,31,33,67,238,exploration
+ilanit,1,18,18,relevant,unclear from the post,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,25,26,68,290,exploration
+ido,2,18,18,relevant,unclear from the post,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,25,26,68,290,exploration
+ilanit,1,19,19,relevant,0-1 year,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,24,27,69,269,exploration
+ido,2,19,19,relevant,0-1 year,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,24,27,69,269,exploration
+ilanit,1,20,20,relevant,1-3 years,friends,low,no,no,no,no,yes,no,no,no,no,no,no,no,19,20,70,168,exploration
+ido,2,20,20,relevant,1-3 years,friends,low,no,no,no,no,yes,no,no,no,no,no,no,no,19,20,70,168,exploration
+ilanit,1,21,21,relevant,unclear from the post,separated/divorced,low,no,no,no,no,no,no,no,no,no,no,no,no,36,37,71,17,exploration
+ido,2,21,21,relevant,unclear from the post,separated/divorced,low,no,no,no,no,no,no,no,no,no,no,no,no,36,37,71,17,exploration
+ilanit,1,22,22,relevant,unclear from the post,boyfriend/girlfriend (dating),medium,no,yes,yes,yes,no,no,yes,no,no,no,no,no,21,20,72,3,exploration
+ido,2,22,22,relevant,unclear from the post,boyfriend/girlfriend (dating),medium,no,yes,yes,yes,no,no,yes,no,no,no,no,no,21,20,72,3,exploration
+ilanit,1,23,23,relevant,0-1 year,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,22,27,73,75,exploration
+ido,2,23,23,relevant,0-1 year,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,22,27,73,75,exploration
+ilanit,1,24,24,relevant,0-1 year,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,26,26,74,181,exploration
+ido,2,24,24,relevant,0-1 year,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,26,26,74,181,exploration
+ilanit,1,25,25,relevant,1-3 years,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,21,24,75,83,exploration
+ido,2,25,25,relevant,1-3 years,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,21,24,75,83,exploration
+ilanit,1,26,26,relevant,3+ years (long),boyfriend/girlfriend (dating),medium,yes,no,yes,yes,yes,no,yes,no,no,no,no,no,21,22,76,93,exploration
+ido,2,26,26,relevant,3+ years (long),boyfriend/girlfriend (dating),medium,yes,no,yes,yes,yes,no,yes,no,no,no,no,no,21,22,76,93,exploration
+ilanit,1,27,27,relevant,3+ years (long),separated/divorced,medium,no,no,yes,yes,yes,no,no,yes,no,no,no,no,26,43,77,306,exploration
+ido,2,27,27,relevant,3+ years (long),separated/divorced,medium,no,no,yes,yes,yes,no,no,yes,no,no,no,no,26,43,77,306,exploration
+ilanit,1,28,28,relevant,1-3 years,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,29,40,78,113,exploration
+ido,2,28,28,relevant,1-3 years,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,29,40,78,113,exploration
+ilanit,1,29,29,relevant,1-3 years,separated/divorced,low,no,no,yes,no,yes,no,no,no,no,no,no,no,20,21,79,77,exploration
+ido,2,29,29,relevant,1-3 years,separated/divorced,low,no,no,yes,no,yes,no,no,no,no,no,no,no,20,21,79,77,exploration
+ilanit,1,30,30,relevant,1-3 years,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,19,18,80,16,exploration
+ido,2,30,30,relevant,1-3 years,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,19,18,80,16,exploration
+ilanit,1,31,31,relevant,unclear from the post,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,20,20,81,55,exploration
+ido,2,31,31,relevant,unclear from the post,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,20,20,81,55,exploration
+ilanit,1,32,32,relevant,0-1 year,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,23,26,82,176,exploration
+ido,2,32,32,relevant,0-1 year,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,23,26,82,176,exploration
+ilanit,1,33,33,relevant,0-1 year,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,30,27,83,142,exploration
+ido,2,33,33,relevant,0-1 year,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,27,30,83,142,exploration
+ilanit,1,34,34,relevant,0-1 year,non committed relationship,low,no,no,no,no,no,no,no,no,no,no,no,no,21,21,84,312,exploration
+ido,2,34,34,relevant,0-1 year,non committed relationship,low,no,no,no,no,no,no,no,no,no,no,no,no,21,21,84,312,exploration
+ilanit,1,35,35,relevant,0-1 year,non committed relationship,low,no,no,no,no,no,no,no,no,no,no,no,no,22,31,85,205,exploration
+ido,2,35,35,relevant,0-1 year,non committed relationship,low,no,no,no,no,no,no,no,no,no,no,no,no,22,31,85,205,exploration
+ilanit,1,36,36,relevant,1-3 years,separated/divorced,low,no,no,no,no,no,no,no,no,no,no,no,no,22,23,86,200,exploration
+ido,2,36,36,relevant,1-3 years,separated/divorced,low,no,no,no,no,no,no,no,no,no,no,no,no,22,23,86,200,exploration
+ilanit,1,37,37,relevant,3+ years (long),partners/married,low,no,no,no,no,no,no,no,no,no,no,no,no,28,28,87,246,exploration
+ido,2,37,37,relevant,3+ years (long),partners/married,low,no,no,no,no,no,no,no,no,no,no,no,no,28,28,87,246,exploration
+ilanit,1,38,38,relevant,0-1 year,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,29,30,88,250,exploration
+ido,2,38,38,relevant,0-1 year,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,29,30,88,250,exploration
+ilanit,1,39,39,relevant,1-3 years,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,26,27,89,162,exploration
+ido,2,39,39,relevant,1-3 years,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,26,27,89,162,exploration
+ilanit,1,40,40,relevant,0-1 year,non committed relationship,low,no,no,no,no,no,no,no,no,no,no,no,no,22,26,90,297,exploration
+ido,2,40,40,relevant,0-1 year,non committed relationship,low,no,no,no,no,no,no,no,no,no,no,no,no,22,26,90,297,exploration
+ilanit,1,41,41,relevant,3+ years (long),partners/married,medium,no,no,yes,yes,no,no,no,no,no,no,no,no,33,37,91,301,exploration
+ido,2,41,41,relevant,3+ years (long),partners/married,medium,no,no,yes,yes,no,no,no,no,no,no,no,no,33,37,91,301,exploration
+ilanit,1,42,42,relevant,1-3 years,boyfriend/girlfriend (dating),high,yes,yes,yes,yes,yes,no,yes,no,no,no,no,no,26,25,92,105,exploration
+ido,2,42,42,relevant,1-3 years,boyfriend/girlfriend (dating),high,yes,yes,yes,yes,yes,no,yes,no,no,no,no,no,26,25,92,105,exploration
+ilanit,1,43,43,relevant,unclear from the post,separated/divorced,medium,no,no,no,no,yes,no,no,no,yes,no,no,no,21,22,93,164,exploration
+ido,2,43,43,relevant,unclear from the post,separated/divorced,medium,no,no,no,no,yes,no,no,no,yes,no,no,no,21,22,93,164,exploration
+ilanit,1,44,44,relevant,0-1 year,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,22,23,94,79,exploration
+ido,2,44,44,relevant,0-1 year,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,22,23,94,79,exploration
+ilanit,1,45,45,relevant,0-1 year,boyfriend/girlfriend (dating),high,yes,yes,yes,yes,yes,no,yes,yes,no,no,no,yes,22,22,95,111,exploration
+ido,2,45,45,relevant,0-1 year,boyfriend/girlfriend (dating),high,yes,yes,yes,yes,yes,no,yes,yes,no,no,no,yes,22,22,95,111,exploration
+ilanit,1,46,46,relevant,unclear from the post,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,20,20,96,98,exploration
+ido,2,46,46,relevant,unclear from the post,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,20,20,96,98,exploration
+ilanit,1,47,47,relevant,1-3 years,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,20,20,97,210,exploration
+ido,2,47,47,relevant,1-3 years,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,20,20,97,210,exploration
+ilanit,1,48,48,relevant,1-3 years,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,22,23,98,19,exploration
+ido,2,48,48,relevant,1-3 years,boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,22,23,98,19,exploration
+ilanit,1,49,49,relevant,3+ years (long),boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,30,38,99,76,exploration
+ido,2,49,49,relevant,3+ years (long),boyfriend/girlfriend (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,30,38,99,76,exploration

@@ -1,0 +1,133 @@
+name,user_id,round_id,example_id,"question_0_Which type of relationship is being described in the post? [exes/divorced, long(married) , short(boy/girl friends), unclear]",question_1_How would you rate the risk level of the woman's relationship based on the information provided in the post?,question_2_Does she mention avoiding social events or outings with friends or family because of him or maybe making excuses for not going out?,question_3_Does she feel like she has to walk on eggshells around him?,question_4_Does she feel anxious or afraid before meeting or talking to him?,"question_5_Does she ever find herself doubting her judgment, memory, decisions, or abilities and has to get his approval before making decisions?",question_6_Does he frequently make her feel guilty?,question_7_Does he frequently express dissatisfaction with her?,question_8_Has she ever taken the blame for things that have nothing to do with her due to his behavior?,question_9_Does he present himself differently in public compared to private?,"question_10_Has she mentioned feeling like she has to dress, appear or act a certain way to please him based on the post?",question_11_Does he exhibit a tendency for angry outbursts?,question_12_Does she ever feel unsafe or threatened by him? Or it’s clear from the post that he threatened/stocked/harassed her?,question_13_Does she describe physical violence from her partner?,question_14_Does she describe verbal violence from her partner?,question_15_What is the age of the female?,question_16_What is the age of the male?
+tester,0,-1,,,,,,,,,,,,,,,,,,
+tester,0,0,0,long (partners/married),high,no,no,no,no,no,no,no,no,no,no,no,no,no,0.0,0.0
+Emmy,1,-1,,,,,,,,,,,,,,,,,,
+Emmy,1,0,0,long (partners/married),low,no,no,yes,no,yes,no,no,no,no,no,no,no,no,25.0,25.0
+Emmy,1,1,1,long (partners/married),low,no,no,yes,no,no,no,no,yes,no,yes,yes,yes,no,,
+Emmy,1,2,2,unclear from the post,medium,no,yes,yes,no,yes,yes,no,no,no,yes,no,no,yes,24.0,22.0
+Emmy,1,3,3,unclear from the post,low,no,no,no,no,no,no,no,no,no,no,no,no,no,25.0,29.0
+Emmy,1,4,4,long (partners/married),low,no,no,no,no,no,no,no,no,no,no,no,no,no,38.0,44.0
+Emmy,1,5,5,short (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,no,35.0,38.0
+Emmy,1,6,6,long (partners/married),low,no,no,no,no,no,no,no,no,no,no,no,no,no,26.0,27.0
+Ido,2,-1,,,,,,,,,,,,,,,,,,
+Ido,2,0,0,short (dating),medium,no,no,no,no,no,no,no,no,no,no,no,no,no,25.0,25.0
+Ido,2,1,1,short (dating),medium,no,no,no,no,yes,yes,no,no,no,yes,yes,yes,yes,32.0,56.0
+Ido,2,2,2,unclear from the post,medium,no,yes,yes,yes,yes,yes,no,no,no,yes,no,no,yes,24.0,22.0
+adi,3,-1,,,,,,,,,,,,,,,,,,
+Ido,2,3,3,unclear from the post,low,no,no,no,no,no,no,no,no,no,no,no,no,no,25.0,29.0
+Ido,2,4,4,long (partners/married),low,no,no,no,no,no,no,no,no,no,no,no,no,no,38.0,44.0
+Ido,2,5,5,long (partners/married),low,no,no,no,no,no,no,no,no,no,no,no,no,no,35.0,38.0
+Ido,2,6,6,long (partners/married),low,no,no,yes,yes,no,yes,no,no,no,no,no,no,no,26.0,27.0
+Ido,2,7,7,short (dating),high,no,no,no,no,yes,no,no,no,no,yes,yes,no,yes,19.0,22.0
+Ido,2,8,8,unclear from the post,medium,yes,no,no,no,no,no,no,no,no,no,no,no,no,31.0,31.0
+Ido,2,9,9,unclear from the post,medium,no,no,no,no,no,yes,no,no,no,yes,no,no,no,31.0,27.0
+adi,3,0,0,short (dating),low,no,yes,yes,no,yes,yes,no,no,yes,no,no,no,yes,25.0,25.0
+Ido,2,10,10,short (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,no,20.0,22.0
+Ido,2,11,11,short (dating),low,no,no,yes,no,no,no,no,no,no,no,no,no,no,20.0,22.0
+Ido,2,12,12,short (dating),low,no,no,no,yes,no,no,no,no,no,no,no,no,no,20.0,22.0
+Ido,2,13,13,short (dating),high,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,22.0,25.0
+adi,3,1,1,short (dating),medium,no,no,no,no,no,no,no,no,yes,yes,yes,yes,no,32.0,56.0
+adi,3,2,2,long (partners/married),high,no,yes,yes,yes,yes,yes,yes,no,no,yes,no,no,yes,24.0,22.0
+adi,3,3,3,long (partners/married),low,yes,no,no,no,no,no,no,no,yes,no,no,no,no,25.0,29.0
+adi,3,4,4,long (partners/married),low,no,no,no,no,no,no,no,no,no,no,no,no,no,38.0,44.0
+Ido,2,14,14,short (dating),low,no,no,no,no,yes,no,no,no,no,no,no,no,no,22.0,34.0
+Ido,2,15,15,short (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,no,24.0,23.0
+Ido,2,16,16,long (partners/married),medium,no,no,no,no,no,yes,no,no,no,yes,no,no,yes,32.0,30.0
+Emmy,1,7,7,short (dating),medium,no,no,no,no,yes,no,no,no,no,yes,yes,no,no,19.0,22.0
+Ido,2,17,17,short (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,no,18.0,19.0
+Ido,2,18,18,long (partners/married),high,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,no,yes,32.0,35.0
+Ido,2,19,19,short (dating),high,no,yes,yes,no,yes,yes,no,no,no,yes,yes,no,yes,23.0,23.0
+Ido,2,20,20,short (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,no,25.0,34.0
+Ido,2,21,21,short (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,no,21.0,21.0
+Ido,2,22,22,short (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,no,18.0,18.0
+Ido,2,23,23,short (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,no,24.0,25.0
+Ido,2,24,24,long (partners/married),high,no,yes,yes,no,yes,yes,no,no,no,yes,no,no,yes,24.0,27.0
+Emmy,1,8,8,long (partners/married),low,no,no,no,no,no,no,no,no,no,no,no,no,no,31.0,31.0
+Emmy,1,9,9,unclear from the post,low,no,no,no,no,no,no,no,no,no,no,no,no,no,31.0,27.0
+Emmy,1,10,10,short (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,no,20.0,22.0
+Emmy,1,11,11,short (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,no,25.0,28.0
+Emmy,1,12,12,long (partners/married),high,no,no,no,no,no,no,no,no,no,no,no,no,no,23.0,28.0
+Emmy,1,13,13,short (dating),medium,no,no,no,no,no,no,no,no,no,yes,no,no,yes,22.0,25.0
+Emmy,1,14,14,unclear from the post,low,no,no,no,no,no,no,no,no,yes,no,no,no,no,22.0,24.0
+Emmy,1,15,15,sperated/divorced/exes,low,no,no,yes,no,no,no,no,no,no,no,no,no,no,24.0,23.0
+tester2,4,-1,,,,,,,,,,,,,,,,,,
+Emmy,1,16,16,long (partners/married),low,no,no,no,no,no,no,no,no,no,no,no,no,no,32.0,30.0
+Emmy,1,17,17,short (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,no,18.0,19.0
+Emmy,1,18,18,long (partners/married),medium,yes,yes,no,no,yes,yes,no,no,yes,yes,no,no,yes,32.0,35.0
+Emmy,1,19,19,long (partners/married),high,no,yes,no,no,yes,no,no,no,no,yes,yes,no,yes,23.0,23.0
+Emmy,1,20,20,short (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,no,25.0,34.0
+Emmy,1,21,21,short (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,no,21.0,21.0
+Emmy,1,22,22,short (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,no,18.0,18.0
+Emmy,1,23,23,short (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,no,24.0,25.0
+Emmy,1,24,24,long (partners/married),low,no,no,no,no,no,no,no,no,no,no,no,no,no,24.0,27.0
+ilanit,5,-1,,,,,,,,,,,,,,,,,,
+ilanit,5,0,0,short (dating),low,no,no,no,no,yes,yes,no,no,no,no,no,no,no,25.0,25.0
+ilanit,5,1,1,short (dating),medium,no,no,yes,no,yes,no,no,no,no,yes,yes,yes,no,32.0,56.0
+ilanit,5,2,2,short (dating),low,no,yes,no,yes,yes,yes,no,no,no,no,no,no,no,24.0,22.0
+ilanit,5,3,3,short (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,no,29.0,25.0
+ilanit,5,4,4,short (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,no,38.0,44.0
+ilanit,5,5,5,short (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,no,35.0,38.0
+ilanit,5,6,6,long (partners/married),low,no,no,no,no,yes,no,no,no,no,no,no,no,no,26.0,27.0
+ilanit,5,7,7,short (dating),medium,no,yes,no,no,yes,no,no,no,no,yes,yes,no,yes,19.0,22.0
+ilanit,5,8,8,long (partners/married),low,no,no,no,no,no,no,no,no,no,no,no,no,no,31.0,31.0
+ilanit,5,9,9,short (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,no,31.0,27.0
+ilanit,5,10,10,short (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,no,20.0,22.0
+ilanit,5,11,11,short (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,no,25.0,28.0
+ilanit,5,12,12,short (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,no,25.0,23.0
+ilanit,5,13,13,short (dating),high,no,yes,no,no,yes,no,no,no,no,yes,yes,yes,yes,22.0,25.0
+ilanit,5,14,14,short (dating),low,no,no,no,no,no,no,no,no,yes,no,no,no,no,22.0,34.0
+ilanit,5,15,15,sperated/divorced/exes,low,no,no,no,no,no,no,no,no,no,no,no,no,no,24.0,23.0
+ilanit,5,16,16,long (partners/married),low,no,no,no,no,no,no,no,no,no,yes,no,no,no,34.0,30.0
+ilanit,5,17,17,short (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,no,18.0,19.0
+ilanit,5,18,18,long (partners/married),high,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,no,yes,32.0,35.0
+ilanit,5,19,19,sperated/divorced/exes,high,no,no,yes,no,yes,no,no,no,yes,yes,yes,no,yes,23.0,23.0
+ilanit,5,20,20,short (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,no,25.0,34.0
+ilanit,5,21,21,short (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,no,21.0,21.0
+ilanit,5,22,22,short (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,no,18.0,18.0
+ilanit,5,23,23,short (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,no,24.0,25.0
+ilanit,5,24,24,long (partners/married),low,no,no,no,no,no,yes,no,no,no,yes,no,no,no,24.0,27.0
+adi,3,5,5,long (partners/married),high,no,no,no,no,no,no,no,no,no,no,no,no,no,0.0,0.0
+adi,3,6,6,long (partners/married),low,no,no,no,no,no,no,no,no,yes,no,no,no,no,26.0,27.0
+adi,3,7,7,long (partners/married),high,no,yes,yes,no,yes,no,no,no,no,yes,yes,yes,yes,19.0,22.0
+adi,3,8,8,long (partners/married),medium,no,no,no,no,no,no,no,no,no,no,no,no,no,31.0,33.0
+adi,3,9,9,short (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,no,31.0,27.0
+adi,3,10,10,short (dating),low,no,no,no,yes,no,no,no,no,no,no,no,no,no,20.0,22.0
+adi,3,11,11,long (partners/married),low,no,no,yes,yes,no,no,no,no,no,no,no,no,no,25.0,28.0
+adi,3,12,12,long (partners/married),low,no,no,no,no,no,no,no,no,no,no,no,no,no,25.0,23.0
+adi,3,13,13,long (partners/married),high,no,no,no,yes,no,no,no,no,no,yes,yes,yes,yes,22.0,25.0
+adi,3,14,14,long (partners/married),medium,no,yes,no,no,yes,yes,no,no,yes,no,no,no,no,22.0,34.0
+adi,3,15,15,sperated/divorced/exes,low,no,no,no,no,no,no,no,no,no,no,no,no,no,24.0,23.0
+adi,3,16,16,long (partners/married),low,no,no,no,no,yes,yes,no,no,no,no,no,no,no,32.0,30.0
+adi,3,17,17,long (partners/married),low,no,no,no,no,no,no,no,no,no,no,no,no,no,18.0,19.0
+adi,3,18,18,long (partners/married),high,yes,yes,yes,no,yes,yes,no,no,yes,yes,yes,no,yes,32.0,35.0
+adi,3,19,19,sperated/divorced/exes,high,no,yes,yes,no,no,yes,no,no,no,yes,yes,no,yes,23.0,23.0
+adi,3,20,20,short (dating),low,no,no,no,no,no,no,no,no,no,no,no,no,no,25.0,34.0
+adi,3,21,21,long (partners/married),low,no,no,no,no,no,no,no,no,no,no,no,no,no,21.0,21.0
+adi,3,22,22,long (partners/married),low,no,yes,no,no,no,no,no,yes,no,no,no,no,no,18.0,18.0
+adi,3,23,23,long (partners/married),low,no,no,no,no,no,no,no,no,no,no,no,no,no,24.0,23.0
+adi,3,24,24,long (partners/married),medium,no,no,no,no,no,yes,no,no,no,yes,yes,no,no,24.0,27.0
+tester2,4,0,0.0,sperated/divorced/exes,low,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,0.0,0.0
+tester2,4,1,1.0,sperated/divorced/exes,low,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,0.0,0.0
+tester2,4,2,2.0,sperated/divorced/exes,low,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,0.0,0.0
+tester2,4,3,3.0,sperated/divorced/exes,low,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,0.0,0.0
+tester2,4,4,4.0,sperated/divorced/exes,low,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,0.0,0.0
+tester2,4,5,5.0,sperated/divorced/exes,low,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,0.0,0.0
+tester2,4,6,6.0,sperated/divorced/exes,low,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,0.0,0.0
+tester2,4,7,7.0,sperated/divorced/exes,low,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,0.0,0.0
+tester2,4,8,8.0,sperated/divorced/exes,low,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,0.0,0.0
+tester2,4,9,9.0,sperated/divorced/exes,low,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,0.0,0.0
+tester2,4,10,10.0,sperated/divorced/exes,low,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,0.0,0.0
+tester2,4,11,11.0,sperated/divorced/exes,low,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,0.0,0.0
+tester2,4,12,12.0,sperated/divorced/exes,low,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,0.0,0.0
+tester2,4,13,13.0,sperated/divorced/exes,low,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,0.0,0.0
+tester2,4,14,14.0,sperated/divorced/exes,low,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,0.0,0.0
+tester2,4,15,15.0,sperated/divorced/exes,low,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,0.0,0.0
+tester2,4,16,16.0,sperated/divorced/exes,low,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,0.0,0.0
+tester2,4,17,17.0,sperated/divorced/exes,low,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,0.0,0.0
+tester2,4,18,18.0,sperated/divorced/exes,low,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,0.0,0.0
+tester2,4,19,19.0,sperated/divorced/exes,low,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,0.0,0.0
+tester2,4,20,20.0,sperated/divorced/exes,low,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,0.0,0.0
+tester2,4,21,21.0,sperated/divorced/exes,low,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,0.0,0.0
+tester2,4,22,22.0,sperated/divorced/exes,low,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,0.0,0.0
+tester2,4,23,23.0,sperated/divorced/exes,low,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,0.0,0.0
+tester2,4,24,24.0,sperated/divorced/exes,low,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,0.0,0.0
