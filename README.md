@@ -57,6 +57,11 @@ Annotations were stored in a structured format for easy access and analysis.
 ### Annotation Process
 ![Annotation Process](images/annotation_process.png)
 
+## Questionnaire Analysis
+- The questionnaire was designed to capture various aspects of the relationship.
+- We analyzed the questionnaire responses to identify patterns and correlations with the risk levels assigned by annotators. 
+![Questionnaire Analysis](images/questionnaire_analysis.png)
+
 ## 🤖 Model Setup
 
 ### 1. Classification Tasks
@@ -93,6 +98,12 @@ Posts were formatted into prompt-completion pairs, with model outputs compared t
 - Assessed model sensitivity to risk patterns across posts.
 - Explored model agreement with human annotations.
 
+### Evaluation Metrics
+- Macro F1
+- Weighted F1
+- Auc
+
+![results](images/models.png)
 ---
 
 ## 🔭 Next Steps
